@@ -1,0 +1,8 @@
+{
+  "/ativos/page": "app/ativos/page.js",
+  "/checklists/page": "app/checklists/page.js",
+  "/contratos/page": "app/contratos/page.js",
+  "/fornecedores/page": "app/fornecedores/page.js",
+  "/medicoes/page": "app/medicoes/page.js",
+  "/page": "app/page.js"
+}
